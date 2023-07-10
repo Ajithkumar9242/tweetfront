@@ -31,9 +31,9 @@ const Register = () => {
     <div>
       <section className="bg-gray-50 dark:bg-gray-900">
   <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
-      <a href="#" className="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
-          <img className="w-8 h-8 mr-2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHAoJegL0SO0-R608_qXoIf_JW_NllwyusYaCk6E9&s" alt="logo" />
-          Twitter    
+      <a href="#"  className="flex font-mono items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
+          <img className="w-8 h-8 mr-2" src="https://img.freepik.com/free-vector/butterfly-logo-colorful-gradient-illustrations_483537-972.jpg?w=740&t=st=1688913860~exp=1688914460~hmac=a152d307e4afd0750a9f14ae9278cefe262d5112bea16fc8f5377f43808e5e1b" alt="logo" />
+          BETA    
       </a>
       <div className="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
           <div className="p-6 space-y-4 md:space-y-6 sm:p-8">

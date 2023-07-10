@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
-import { FiTwitter } from 'react-icons/fi';
-import { BiSearch } from 'react-icons/bi';
-import { AiFillStar } from 'react-icons/ai';
+
+import { SiRedux } from 'react-icons/si';
 const Navbar = () => {
 
   return (
@@ -12,11 +11,11 @@ const Navbar = () => {
 
       <div className="col-span-2 md:border-x-2 md:border-slate-200 md:px-6 my-6 md:my-0">
         <div className="flex justify-between items-center">
-          <h2 className="font-bold text-2xl font-mono">
+          <h2 className="font-bold text-2xl font-sans">
             
-            SOCIO_PEDIA
+              BETA
           </h2>
-          <AiFillStar />
+          <SiRedux />
         </div>
       </div>
 
